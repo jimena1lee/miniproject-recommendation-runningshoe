@@ -1,0 +1,454 @@
+{
+  "value": [
+    {
+      "id": "nike_vomero_plus",
+      "name": "Nike Vomero Plus",
+      "brand": "Nike",
+      "price": 234000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "hoka_bondi_9",
+      "name": "Hoka Bondi 9",
+      "brand": "Hoka",
+      "price": 308340,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "adidas_adizero_evo_sl",
+      "name": "Adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "price": 256950,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "asics_novablast_5",
+      "name": "ASICS Novablast 5",
+      "brand": "ASICS",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_vomero_18",
+      "name": "Nike Vomero 18",
+      "brand": "Nike",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "hoka_clifton_10",
+      "name": "Hoka Clifton 10",
+      "brand": "Hoka",
+      "price": 195000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "new_balance_fresh_foam_x_more_v6",
+      "name": "New Balance Fresh Foam X More v6",
+      "brand": "New Balance",
+      "price": 291330,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_vomero_premium",
+      "name": "Nike Vomero Premium",
+      "brand": "Nike",
+      "price": 394160,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "brooks_glycerin_max",
+      "name": "Brooks Glycerin Max",
+      "brand": "Brooks",
+      "price": 342600,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_pegasus_41",
+      "name": "Nike Pegasus 41",
+      "brand": "Nike",
+      "price": 239920,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "new_balance_fresh_foam_x_more_v5",
+      "name": "New Balance Fresh Foam X More v5",
+      "brand": "New Balance",
+      "price": 201500,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "brooks_ghost_max",
+      "name": "Brooks Ghost Max",
+      "brand": "Brooks",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "hoka_clifton_9",
+      "name": "Hoka Clifton 9",
+      "brand": "Hoka",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "new_balance_fresh_foam_x_1080_v14",
+      "name": "New Balance Fresh Foam X 1080 v14",
+      "brand": "New Balance",
+      "price": 325610,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_vaporfly_4",
+      "name": "Nike Vaporfly 4",
+      "brand": "Nike",
+      "price": 445570,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "brooks_adrenaline_gts_24",
+      "name": "Brooks Adrenaline GTS 24",
+      "brand": "Brooks",
+      "price": 182000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "brooks_glycerin_22",
+      "name": "Brooks Glycerin 22",
+      "brand": "Brooks",
+      "price": 308470,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_zoom_fly_6",
+      "name": "Nike Zoom Fly 6",
+      "brand": "Nike",
+      "price": 291330,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "asics_superblast_2",
+      "name": "ASICS Superblast 2",
+      "brand": "ASICS",
+      "price": 376860,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "hoka_mach_6",
+      "name": "Hoka Mach 6",
+      "brand": "Hoka",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "on_cloudmonster",
+      "name": "On Cloudmonster",
+      "brand": "On",
+      "price": 221000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "asics_gel_nimbus_27",
+      "name": "ASICS Gel Nimbus 27",
+      "brand": "ASICS",
+      "price": 342750,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "adidas_adizero_adios_pro_4",
+      "name": "Adidas Adizero Adios Pro 4",
+      "brand": "Adidas",
+      "price": 428430,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "nike_alphafly_3",
+      "name": "Nike Alphafly 3",
+      "brand": "Nike",
+      "price": 531250,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "hoka_bondi_8",
+      "name": "Hoka Bondi 8",
+      "brand": "Hoka",
+      "price": 214500,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "new_balance_fuelcell_rebel_v5",
+      "name": "New Balance FuelCell Rebel v5",
+      "brand": "New Balance",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "new_balance_fuelcell_supercomp_elite_v5",
+      "name": "New Balance FuelCell SuperComp Elite v5",
+      "brand": "New Balance",
+      "price": 479840,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "on_cloudmonster_2",
+      "name": "On Cloudmonster 2",
+      "brand": "On",
+      "price": 325610,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "puma_velocity_nitro_4",
+      "name": "PUMA Velocity Nitro 4",
+      "brand": "PUMA",
+      "price": 182000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    },
+    {
+      "id": "brooks_ghost_max_2",
+      "name": "Brooks Ghost Max 2",
+      "brand": "Brooks",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false
+    }
+  ]
+}

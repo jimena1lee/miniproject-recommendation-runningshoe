@@ -1,0 +1,53 @@
+{
+  "name": "shoes-skillset",
+  "description": "description + review_summary 텍스트를 임베딩 벡터로 변환하여 embedding 필드에 저장",
+  "skills": [
+    {
+      "@odata.type": "#Microsoft.Skills.Text.AzureOpenAIEmbeddingSkill",
+      "name": "embedding-skill",
+      "description": "Azure OpenAI text-embedding-ada-002로 벡터 생성",
+      "context": "/document",
+      "resourceUri": "https://YOUR_OPENAI_RESOURCE.openai.azure.com",
+      "apiKey": "YOUR_OPENAI_API_KEY",
+      "deploymentId": "text-embedding-ada-002",
+      "modelName": "text-embedding-ada-002",
+      "inputs": [
+        {
+          "name": "text",
+          "source": "/document/merged_text"
+        }
+      ],
+      "outputs": [
+        {
+          "name": "embedding",
+          "targetName": "embedding"
+        }
+      ]
+    },
+    {
+      "@odata.type": "#Microsoft.Skills.Text.MergeSkill",
+      "name": "merge-skill",
+      "description": "description과 review_summary를 하나의 텍스트로 합치기",
+      "context": "/document",
+      "inputs": [
+        { "name": "itemsToInsert", "source": "/document/description" },
+        { "name": "itemsToInsert", "source": "/document/review_summary" }
+      ],
+      "outputs": [
+        { "name": "mergedText", "targetName": "merged_text" }
+      ]
+    }
+  ],
+  "indexProjections": {
+    "selectors": [
+      {
+        "targetIndexName": "shoes",
+        "parentKeyFieldName": "id",
+        "sourceContext": "/document",
+        "mappings": [
+          { "name": "embedding", "source": "/document/embedding" }
+        ]
+      }
+    ]
+  }
+}

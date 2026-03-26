@@ -1,0 +1,819 @@
+{
+  "value": [
+    {
+      "id": "nike_vomero_plus",
+      "name": "Nike Vomero Plus",
+      "brand": "Nike",
+      "price": 234000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Nike Vomero Plus is a premium running shoe that features a full-length ZoomX midsole, providing energetic bounce and outstanding shock absorption. Its cozy upper and durable construction make it suitable for recovery days and relaxed runs, although it is heavier than ideal and has a snug fit with a narrow toebox.",
+      "review_summary": "Overall, the Nike Vomero Plus excels in comfort and durability, making it a great choice for easy runs, despite its weight and fit issues.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "hoka_bondi_9",
+      "name": "Hoka Bondi 9",
+      "brand": "Hoka",
+      "price": 308340,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Bondi 9 arrived after a long wait, and we found Hoka prioritized consistency to maintain the v8’s winning formula. In our lab tests, we discovered it to be a better version in every way—lighter, more durable, and packed with improved cushioning. The new supercritical foam is definitely bouncier, while the upper materials provide a premium fit. However, its narrow toebox, oversized frame, and hefty build still limit its appeal for many runners.",
+      "review_summary": {
+        "pros": [
+          "Endless cushioning",
+          "New supercritical EVA midsole",
+          "Amazing step-in comfort",
+          "Doubles as a walking shoe",
+          "Stable for its height",
+          "Built to last",
+          "Excels at slow-and-steady paces",
+          "Well-designed heel collar",
+          "Lighter than v8"
+        ],
+        "cons": [
+          "Not for wide feet",
+          "Still feels heavy and clunky underfoot",
+          "Drop measurement differs from stated",
+          "Non-gusseted tongue"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "adidas_adizero_evo_sl",
+      "name": "Adidas Adizero EVO SL",
+      "brand": "Adidas",
+      "price": 256950,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Adidas Adizero EVO SL is a lightweight running shoe featuring a 100% Lightstrike Pro midsole and a world-class Continental outsole. It is designed for a wide range of paces and distances, offering exceptional value and versatility. The shoe has an ultra-breathable upper and a striking design inspired by Evo 1 aesthetics, making it both functional and stylish. However, it has some drawbacks, including poor-quality laces, a short non-gusseted tongue, and concerns about toebox durability.",
+      "review_summary": "The Adidas Adizero EVO SL impresses with its lightweight design, exceptional cushioning, and versatility, making it a strong contender in the running shoe market despite some minor flaws.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "asics_novablast_5",
+      "name": "ASICS Novablast 5",
+      "brand": "ASICS",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Novablast 5 takes ASICS’ best-seller to new heights—literally and figuratively. We found it lighter, softer, and bouncier, with improved flexibility and a more responsive feel underfoot. The price remains unchanged, offering excellent value with significant updates. While traction remains its weakest aspect, the ride is undeniably fun and surprisingly stable, making it a perfect choice for runners craving a blend of plush cushioning, versatility, and comfort.",
+      "review_summary": {
+        "pros": [
+          "Improved energy return with FF Blast MAX foam",
+          "Plushiest foam in a Novablast yet",
+          "Keeps the same price as v4",
+          "Higher stack height for extra cushioning",
+          "Enhanced flexibility",
+          "Lighter than its predecessor",
+          "Best Novablast ever for wide feet",
+          "Exceptional weight-to-cushion balance",
+          "Works for short, medium and long runs"
+        ],
+        "cons": [
+          "Breathability could be improved",
+          "Toebox durability"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_vomero_18",
+      "name": "Nike Vomero 18",
+      "brand": "Nike",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Vomero 18 received a much-needed, full-scale overhaul to match today’s trend of max-cushioned trainers. It delivers more foam underfoot and step-in comfort than ever, paired with a rare price drop. However, it has packed on extra weight, become less flexible, and its grip still trails behind the competition.",
+      "review_summary": {
+        "pros": [
+          "Amazing step-in feel",
+          "First max-stack Vomero",
+          "Price drop from v17!",
+          "Superb cushioning",
+          "Ideal for recovery runs",
+          "Ideal for heel strikers",
+          "Still quite stable despite its size",
+          "Comfortable upper"
+        ],
+        "cons": [
+          "Needs to lose some weight",
+          "Narrow toebox",
+          "Lacks agility for faster paces",
+          "Grip could be better"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "hoka_clifton_10",
+      "name": "Hoka Clifton 10",
+      "brand": "Hoka",
+      "price": 195000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Hoka Clifton 10 features a maximalist design with a raised stack height, a widened toebox for improved toe splay, and a comfortable upper. It offers a stable ride, particularly suited for heel strikers, making it ideal for long runs and versatile for daily walking or jogging. However, it has notable weight gain compared to its predecessor and utilizes outdated foam, which affects its liveliness.",
+      "review_summary": "The Hoka Clifton 10 is a solid choice for comfort-seekers looking for a stable everyday running shoe, despite some drawbacks like weight gain and foam quality.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "new_balance_fresh_foam_x_more_v6",
+      "name": "New Balance Fresh Foam X More v6",
+      "brand": "New Balance",
+      "price": 291330,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Fresh Foam X More v6 continues New Balance’s formula of cloud-soft cushioning and a super-thick midsole offered at a fair price. It shines on recovery days and easy jogs, and can handle long runs if you don't push the pace. The fit is snug in standard width and the weight is heavier than preferred, but it offers a comfort-first ride with tons of foam underfoot.",
+      "review_summary": {
+        "pros": [
+          "Record-breaking shock absorption",
+          "Wide platform ensures stability",
+          "Super-plush foam",
+          "Improved energy return",
+          "Cozy upper",
+          "No price hike this year",
+          "Ideal for forefoot strikers",
+          "Solid durability",
+          "Semi-gusseted tongue for secure lockdown",
+          "Good torsional flexibility despite its size"
+        ],
+        "cons": [
+          "Narrow, low-volume interior fit",
+          "Still a heavy shoe",
+          "Weak airflow",
+          "Low drop doesn't work for everyone"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_vomero_premium",
+      "name": "Nike Vomero Premium",
+      "brand": "Nike",
+      "price": 394160,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Vomero Premium showcases Nike's commitment to innovation with its impressive stack height and ultra-plush ZoomX foam, providing exceptional cushioning. However, it feels bulky and slow, and while it boasts a unique aesthetic, it may not meet practical running needs.",
+      "review_summary": {
+        "pros": [
+          "Record-breaking shock absorption",
+          "Massive 50+ mm stack height",
+          "Cozy upper from heel to toe",
+          "Surprisingly good grip",
+          "Ultra-plush ZoomX foam",
+          "Perfect for recovery days",
+          "Solid durability",
+          "Impressively stable for heel strikers",
+          "Out-of-this-world aesthetics"
+        ],
+        "cons": [
+          "Lower energy return than expected",
+          "Limited versatility",
+          "High price tag",
+          "Tapered toebox restricts toe splay"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "brooks_glycerin_max",
+      "name": "Brooks Glycerin Max",
+      "brand": "Brooks",
+      "price": 342600,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Glycerin Max is Brooks’ ambitious response to the rise of ultra-cushioned running shoes. It provides cloud-like comfort underfoot, protecting your muscles and joints with its innovative DNA Tuned midsole. The plush, breathable upper offers a premium, glove-like fit, though this luxurious feel comes at a cost in terms of price and weight.",
+      "review_summary": {
+        "pros": [
+          "Massive impact dampening",
+          "Luxurious yet breathable upper",
+          "New DNA Tuned midsole",
+          "Eye-catching look",
+          "Surprisingly stable",
+          "Can be used as a walking shoe",
+          "Premium materials"
+        ],
+        "cons": [
+          "Too heavy",
+          "Midsole lacks bounce",
+          "Poor rubber coverage",
+          "High price tag"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_pegasus_41",
+      "name": "Nike Pegasus 41",
+      "brand": "Nike",
+      "price": 239920,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "Nike's updates can be unpredictable, but we can confidently say that the Pegasus 41 is a standout. We were particularly impressed by its features for heel strikers, enhanced by the new plush foam and rockered sole. The shoe maintains its renowned durability too. And despite the $10 price increase, we believe it's justified and well worth it. At the end of the day, although it's been quite some time since 1982—I wasn't even born then!—the Pegasus series is still kicking, and for good reason.",
+      "review_summary": {
+        "pros": [
+          "Enhanced for heel strikers",
+          "New ReactX foam!",
+          "Improved breathability",
+          "Plush upper",
+          "Good durability",
+          "Several stability enhancements",
+          "Newly designed rocker and bevel",
+          "Solid performance",
+          "Superior lockdown",
+          "Sustainable features"
+        ],
+        "cons": [
+          "Price increased by $10",
+          "Worse than the v40 in cold temperatures",
+          "Poor grip"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "new_balance_fresh_foam_x_more_v5",
+      "name": "New Balance Fresh Foam X More v5",
+      "brand": "New Balance",
+      "price": 201500,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The New Balance Fresh Foam X More v5 is a maximalist running shoe that offers exceptional all-around comfort with ultra-plush cushioning, making it ideal for slow long runs. Its eye-catching design enhances stability and provides a superb lockdown, while the durable outsole ensures a dependable grip. However, it is heavier than its predecessor and features a snug fit that may be too plush for some runners.",
+      "review_summary": "The New Balance Fresh Foam X More v5 impresses with its comfort and stability but may not suit those seeking a lighter, more responsive shoe.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "brooks_ghost_max",
+      "name": "Brooks Ghost Max",
+      "brand": "Brooks",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Brooks Ghost Max is like the regular Ghost but on steroids, offering a skyscraper-high midsole combined with a stable ride, especially for heel strikers. In our tests, we were impressed with its performance on long runs and easy days. And despite its substantial size, it's still surprisingly lightweight. The upper is really comfortable and it's well-ventilated, though it does fall short in durability and lacks a gusseted tongue. However, these are minor quibbles in what we found to be an excellent, fairly-priced maximalist option from Brooks, capable of devouring miles with ease.",
+      "review_summary": {
+        "pros": [
+          "Exceptionally cushioned",
+          "Impressively lightweight for its size",
+          "Extremely comfortable",
+          "Remarkably stable",
+          "Durable outsole with long-lasting performance",
+          "A genuine maximalist version of the Ghost",
+          "Reasonably priced at $150",
+          "Offered in three width options"
+        ],
+        "cons": [
+          "Tongue is not fixed to the sides",
+          "Lacks energy return",
+          "Not very flexible"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "hoka_clifton_9",
+      "name": "Hoka Clifton 9",
+      "brand": "Hoka",
+      "price": 257060,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Clifton 9 is a reliable daily workhorse that combines a thicker and more energetic midsole cushioning with a lighter design compared to its predecessor, the v8. It features a durable upper, is available in wide sizes, and includes mild stability elements, making it ideal for easy days and long runs. However, it has a snug fit, lacks sufficient bounce from the EVA foam, has average breathability, and its grip could be improved.",
+      "review_summary": "The Clifton 9 successfully builds on its heritage with enhanced comfort and performance, making it a better shoe overall despite some minor drawbacks.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "new_balance_fresh_foam_x_1080_v14",
+      "name": "New Balance Fresh Foam X 1080 v14",
+      "brand": "New Balance",
+      "price": 325610,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The New Balance Fresh Foam X 1080 v14 aims to enhance stability but has gained noticeable weight compared to its predecessor. The tapered toebox may feel restrictive for some, particularly during walking. Despite these drawbacks, the shoe offers exceptional durability, a highly breathable upper, and increased stack height, making it suitable for easy runs and recovery jogs.",
+      "review_summary": {
+        "pros": [
+          "Amazing step-in feel",
+          "Excellent durability",
+          "Cloud-soft midsole",
+          "Ideal for forefoot and midfoot strikers",
+          "Perfect for recovery runs",
+          "Airy upper",
+          "Fairly priced for a premium daily trainer",
+          "Stability improvements"
+        ],
+        "cons": [
+          "Noticeable weight increase",
+          "Tapered toebox limits toe splay",
+          "Midsole could be too soft for some",
+          "Lacks energy return"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_vaporfly_4",
+      "name": "Nike Vaporfly 4",
+      "brand": "Nike",
+      "price": 445570,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Vaporfly 4 is a smart update with a feather-light construction and improved fit, addressing previous issues with the tongue. It features a full ZoomX midsole and a spring-loaded carbon-fiber Flyplate, making it fantastic for shorter races like 5K, 10K, and 21K. The shoe offers a more natural ride with a moderate rocker and enhanced breathability and durability in the upper. However, it may not provide the significant performance boost some runners expect, especially for marathon distances.",
+      "review_summary": "The Vaporfly 4 is a refined version of its predecessor, offering improvements in fit and construction, but may not meet the expectations of those seeking a major performance enhancement.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "brooks_adrenaline_gts_24",
+      "name": "Brooks Adrenaline GTS 24",
+      "brand": "Brooks",
+      "price": 182000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Brooks Adrenaline GTS 24 is an ultra-reliable trainer designed for heel strikers needing stability. It features a DNA Loft v3 midsole for a firmer yet responsive feel, a revamped upper for comfort and breathability, and is available in multiple width options. While it excels in support and durability, the firmer foam and steep drop may not suit everyone.",
+      "review_summary": "The Brooks Adrenaline GTS 24 is a refined, reliable choice for stability-seeking heel strikers, offering comfort and breathability with some trade-offs in midsole firmness and drop height.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "brooks_glycerin_22",
+      "name": "Brooks Glycerin 22",
+      "brand": "Brooks",
+      "price": 308470,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Glycerin 22 remains an easy recommendation for those seeking a durable, comfort-loaded daily trainer. Brooks has refined the formula with an upgraded DNA Tuned foam, a higher stack height, and an ultra-breathable upper—all while preserving stability. However, it’s heavier, pricier, and stiffer than before, which may not appeal to everyone.",
+      "review_summary": {
+        "pros": [
+          "DNA Tuned improves shock absorption",
+          "Stable ride",
+          "Highly-breathable upper",
+          "Increased stack height",
+          "All-around comfort",
+          "First-class durability",
+          "Perfect for everyday miles",
+          "Awesome for heel strikers",
+          "Great as an everyday shoe"
+        ],
+        "cons": [
+          "Needs to lose some weight",
+          "Low toebox height",
+          "Price increase",
+          "Not the most energetic ride"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_zoom_fly_6",
+      "name": "Nike Zoom Fly 6",
+      "brand": "Nike",
+      "price": 291330,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Zoom Fly 6 addresses the shortcomings of its predecessor with energetic ZoomX foam, a carbon plate, and a lighter build. It offers fantastic durability and versatility, making it a true super trainer at a fair price. However, the snug toebox and narrow dimensions may not suit everyone.",
+      "review_summary": {
+        "verdict": "Impressive performance and value.",
+        "pros": [
+          "The Zoom Fly is back!",
+          "Fairly priced",
+          "Versatile, performance-ready supertrainer",
+          "Reasonable weight",
+          "Can handle all paces",
+          "Comfortable upper",
+          "Outstanding durability",
+          "Amazing for tempo and marathon workouts"
+        ],
+        "cons": [
+          "Toebox is narrow and restrictive",
+          "SR-02 foam lacks bounce",
+          "Could be more stable"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "asics_superblast_2",
+      "name": "ASICS Superblast 2",
+      "brand": "ASICS",
+      "price": 376860,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The ASICS Superblast 2 is an exceptional training shoe that also serves as a great racer for most runners. It features a world-class midsole, an improved upper, and a more effective outsole, maintaining the beloved features of its predecessor while excelling in speed, cushioning, and versatility. However, it may not be the best fit for wider feet and has a slight increase in weight compared to its predecessor.",
+      "review_summary": {
+        "verdict": "If budget isn't a barrier, the ASICS Superblast 2 is the ultimate training shoe.",
+        "pros": [
+          "Fantastic new upper",
+          "Improved overall comfort",
+          "Grippier outsole without cutouts",
+          "Durability enhancements",
+          "Excellent weight/cushioning ratio",
+          "Supreme stability",
+          "Works at every pace and distance"
+        ],
+        "cons": [
+          "Slight weight gain",
+          "Fit remains tight",
+          "Minimal tongue padding",
+          "Energy return is not on par with the price"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "hoka_mach_6",
+      "name": "Hoka Mach 6",
+      "brand": "Hoka",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Hoka Mach 6 marks a stellar leap from v5, ticking off all our boxes for improvement. We were delighted to find it not just light and grippy, but also versatile and comfortable—though it still caters more to runners with narrower feet. We really liked how it effortlessly handles various paces and distances, performing admirably across the board. For us, it's a well-rounded upgrade that meets the mark of an excellent daily trainer.",
+      "review_summary": {
+        "pros": [
+          "Really lightweight",
+          "Fantastic outsole",
+          "Exciting ride",
+          "Highly cushioned",
+          "Great for heel strikers",
+          "Handles faster paces",
+          "Superb lockdown",
+          "Excellent value at $140"
+        ],
+        "cons": [
+          "Drop varies from stated",
+          "Tapered toebox",
+          "Thin tongue"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "on_cloudmonster",
+      "name": "On Cloudmonster",
+      "brand": "On",
+      "price": 221000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The On Cloudmonster is the brand's max-cushioned running shoe that blew our minds. From firm to forgiving, it's a new take that we are confident is perfect for daily training and long runs. True to its name, it has a monstrous amount of foam that keeps our feet protected and comfy all day. So much so that we can take it out on our walks as well.",
+      "review_summary": {
+        "pros": [
+          "All-day comfort",
+          "Smooth heel-to-toe transitions",
+          "Protective for long runs",
+          "Stable when cornering",
+          "Weighs less than it looks",
+          "Can work on light trails",
+          "Perfect lockdown",
+          "Durable",
+          "Sustainable upper"
+        ],
+        "cons": [
+          "Firm for recovery days",
+          "Not for wide feet",
+          "Expensive",
+          "Lacks bounce"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "asics_gel_nimbus_27",
+      "name": "ASICS Gel Nimbus 27",
+      "brand": "ASICS",
+      "price": 342750,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The ASICS Nimbus 27 is a high-cushioned daily trainer designed for comfort-focused runners. It features an ultra-thick midsole for a stable, shock-absorbing ride, a premium-feel breathable upper, and an improved toebox for extra wiggle room. While it offers fantastic stability and true maximalist comfort for recovery runs, it may feel bulky and heavy to some users. The shoe also has a flexible knit tongue, amazing heel lockdown, and top-tier grip, but lacks energy return and has a minor price increase compared to previous models.",
+      "review_summary": "The ASICS Nimbus 27 excels in comfort and stability, making it ideal for easy miles, but its bulkiness and lack of energy return may deter some runners.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "adidas_adizero_adios_pro_4",
+      "name": "Adidas Adizero Adios Pro 4",
+      "brand": "Adidas",
+      "price": 428430,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Adidas Adios Pro 4 features enhanced energy return, a lighter construction, and plush foam for an incredible underfoot feel. However, it has a narrower toebox that may reduce comfort for wider feet and lacks rear stability, making it less suitable for heel strikers. While it resembles its predecessor, it is designed for speed and is less forgiving for casual racers.",
+      "review_summary": {
+        "pros": [
+          "Softer, bouncier Lightstrike Pro foam",
+          "Maintains the same price",
+          "No more heel slippage",
+          "Versatile from 5K to marathon distances",
+          "Durable outsole with outstanding grip",
+          "Fantastic for midfoot and forefoot strikers",
+          "Improved for faster runners",
+          "Comfortable, gusseted tongue",
+          "Lighter than Adios Pro 3"
+        ],
+        "cons": [
+          "Unstable for every heel striker",
+          "Narrow, tapered toebox",
+          "Upper lacks breathability",
+          "Midsole loses bounce quicker than AP3"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "nike_alphafly_3",
+      "name": "Nike Alphafly 3",
+      "brand": "Nike",
+      "price": 531250,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Alphafly 3 elevates the concept of a marathon super shoe, blending the best elements of previous models with groundbreaking enhancements. The synergy of the ultra-responsive foam, carbon-fiber plate, and Air Pods delivers unparalleled energy return. The debut of a new upper and a long-awaited continuous midsole adds to its appeal, making it an excellent choice for those chasing peak performance despite its steep $285 price tag.",
+      "review_summary": {
+        "pros": [
+          "Remarkably lightweight despite its broad size",
+          "Best-in-class breathability",
+          "Excels in the marathon distance",
+          "Repositioned Air Pods offer a better ride than the v2",
+          "ZoomX foam delivers massive energy return",
+          "Aids in forward momentum, especially when legs begin to fatigue",
+          "Better than ever for 5K/10K racing",
+          "Finally smooth transitions!"
+        ],
+        "cons": [
+          "Heel strikers might wear down the outsole quickly",
+          "The arch could still be a challenge for some",
+          "The sock-like tongue might not suit everyone"
+        ]
+      },
+      "@search.action": "upload"
+    },
+    {
+      "id": "hoka_bondi_8",
+      "name": "Hoka Bondi 8",
+      "brand": "Hoka",
+      "price": 214500,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The 8th iteration of the Hoka Bondi remains our beloved plush and cushy daily trainer that excels on easy days and recovery sessions. With its humongous foam, our feet found themselves in a very comfy position all throughout the run! On top of this, the shoe kept us surefooted thanks to its highly stable ride. Pros include oozing comfort, gliding ride, stability, breathability, a soft upper, and high durability. However, it has a tight midfoot, narrow toebox, is still heavy, and lacks energy return.",
+      "review_summary": "The Hoka Bondi 8 offers exceptional comfort and stability for daily training, but may not suit those needing a lighter shoe with more energy return.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "new_balance_fuelcell_rebel_v5",
+      "name": "New Balance FuelCell Rebel v5",
+      "brand": "New Balance",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Rebel v5 is a strong upgrade that addresses the major flaws of version 4 while maintaining the same price. It features plush Cloud-soft FuelCell foam, a lightweight build, and a flexible design. The shoe offers improved shock absorption, a smooth heel collar, and a roomy toebox, making it suitable for easy runs and tempo sessions, especially for midfoot strikers. However, it runs warm in hot weather, has concerns regarding upper durability, and could improve in traction.",
+      "review_summary": "The Rebel v5 successfully enhances the previous version with better comfort and performance, though it still faces issues with airflow and durability.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "new_balance_fuelcell_supercomp_elite_v5",
+      "name": "New Balance FuelCell SuperComp Elite v5",
+      "brand": "New Balance",
+      "price": 479840,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The FuelCell SuperComp Elite v5 from New Balance is a lightweight and fast running shoe that features an improved lockdown and better grip. It offers a roomy toebox, a maxed-out heel stack, and a redesigned plate curvature for faster transitions. The premium, breathable upper addresses previous issues from the v4 model, making it a comfortable option for runners.",
+      "review_summary": "While the Elite v5 shows significant improvements in performance and comfort, it still falls short of being a top contender in the super shoe category due to its narrow heel and high drop.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "on_cloudmonster_2",
+      "name": "On Cloudmonster 2",
+      "brand": "On",
+      "price": 325610,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The On Cloudmonster 2 is a stylish running shoe that combines high-end materials with a spacious upper and a dynamic, stable ride. It excels in long runs and is particularly suited for midfoot strikers, offering solid stability and enhanced cushioning compared to its predecessor. However, it has some drawbacks, including breathability issues, a less cushioned tongue, and a need for weight reduction and improved energy return.",
+      "review_summary": "The On Cloudmonster 2 is a fun and reliable shoe that justifies its premium price with quality construction and performance, despite some areas needing improvement.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "puma_velocity_nitro_4",
+      "name": "PUMA Velocity Nitro 4",
+      "brand": "PUMA",
+      "price": 182000,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The PUMA Velocity Nitro 4 offers an impressive energy return and a lightweight feel, making it a fun and agile choice for daily training. Its PumaGrip outsole provides superior traction, and it handles tempo efforts with ease. The shoe features a flexible and comfortable design, with a natural-feeling, non-rockered profile and balanced cushioning that allows for some ground feel. However, it may not be the best option for long distances, and the fit tends to be on the narrow side. Additionally, the midsole can become firmer in cold conditions, and there is a slight price increase compared to previous models.",
+      "review_summary": "The PUMA Velocity Nitro 4 is an impressive daily trainer with excellent energy return and traction, though it may not be suitable for long runs due to its snug fit and midsole firmness in cold weather.",
+      "@search.action": "upload"
+    },
+    {
+      "id": "brooks_ghost_max_2",
+      "name": "Brooks Ghost Max 2",
+      "brand": "Brooks",
+      "price": 274200,
+      "cushion_level": "medium",
+      "stability": "neutral",
+      "foot_type": [
+        "neutral"
+      ],
+      "usage": [
+        "daily_run"
+      ],
+      "wide_fit": false,
+      "description": "The Brooks Ghost Max 2 is a maximalist running shoe that offers impressive stability and enhanced energy return. It features a breathable upper and a durable outsole that grips well even on wet surfaces. While it excels at easy paces and is suitable for long runs, it has a firmer midsole and a heavier build, which may not appeal to all runners.",
+      "review_summary": "In our view, the Brooks Ghost Max 2 is a mixed bag—offering impressive stability and enhanced energy return, yet let down by its firmer midsole and heavier build. Despite these drawbacks, its attractive price point makes it an excellent choice for beginners or casual joggers seeking a dependable, maximalist running shoe that won't strain the wallet.",
+      "@search.action": "upload"
+    }
+  ]
+}

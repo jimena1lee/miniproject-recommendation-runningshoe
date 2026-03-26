@@ -1,0 +1,34 @@
+{
+  "name": "shoes-indexer",
+  "description": "Azure Blob Storage CSV → Skillset → shoes 인덱스 파이프라인",
+  "dataSourceName": "shoes-datasource",
+  "targetIndexName": "shoes",
+  "skillsetName": "shoes-skillset",
+  "schedule": { "interval": "PT2H" },
+  "parameters": {
+    "configuration": {
+      "parsingMode": "delimitedText",
+      "firstLineContainsHeaders": true,
+      "delimitedTextDelimiter": ","
+    }
+  },
+  "fieldMappings": [
+    { "sourceFieldName": "id",             "targetFieldName": "id" },
+    { "sourceFieldName": "name",           "targetFieldName": "name" },
+    { "sourceFieldName": "brand",          "targetFieldName": "brand" },
+    { "sourceFieldName": "price",          "targetFieldName": "price" },
+    { "sourceFieldName": "cushion_level",  "targetFieldName": "cushion_level" },
+    { "sourceFieldName": "stability",      "targetFieldName": "stability" },
+    { "sourceFieldName": "foot_type",      "targetFieldName": "foot_type" },
+    { "sourceFieldName": "usage",          "targetFieldName": "usage" },
+    { "sourceFieldName": "wide_fit",       "targetFieldName": "wide_fit" },
+    { "sourceFieldName": "description",    "targetFieldName": "description" },
+    { "sourceFieldName": "review_summary", "targetFieldName": "review_summary" }
+  ],
+  "outputFieldMappings": [
+    {
+      "sourceFieldName": "/document/embedding",
+      "targetFieldName": "embedding"
+    }
+  ]
+}

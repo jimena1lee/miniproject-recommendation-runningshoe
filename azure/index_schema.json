@@ -1,0 +1,49 @@
+{
+  "name": "shoes",
+  "fields": [
+    { "name": "id",             "type": "Edm.String",              "key": true, "filterable": true },
+    { "name": "name",           "type": "Edm.String",              "searchable": true },
+    { "name": "brand",          "type": "Edm.String",              "filterable": true, "facetable": true },
+    { "name": "price",          "type": "Edm.Int32",               "filterable": true, "sortable": true },
+    { "name": "cushion_level",  "type": "Edm.String",              "filterable": true, "facetable": true },
+    { "name": "stability",      "type": "Edm.String",              "filterable": true },
+    { "name": "foot_type",      "type": "Collection(Edm.String)",  "filterable": true },
+    { "name": "usage",          "type": "Collection(Edm.String)",  "filterable": true },
+    { "name": "wide_fit",       "type": "Edm.Boolean",             "filterable": true },
+    { "name": "description",    "type": "Edm.String",              "searchable": true },
+    { "name": "review_summary", "type": "Edm.String",              "searchable": true },
+    {
+      "name": "embedding",
+      "type": "Collection(Edm.Single)",
+      "searchable": true,
+      "dimensions": 1536,
+      "vectorSearchProfile": "vector-profile"
+    }
+  ],
+  "vectorSearch": {
+    "algorithms": [
+      {
+        "name": "hnsw-algo",
+        "kind": "hnsw",
+        "hnswParameters": { "metric": "cosine" }
+      }
+    ],
+    "profiles": [
+      { "name": "vector-profile", "algorithm": "hnsw-algo" }
+    ]
+  },
+  "semantic": {
+    "configurations": [
+      {
+        "name": "semantic-config",
+        "prioritizedFields": {
+          "titleField":   { "fieldName": "name" },
+          "contentFields": [
+            { "fieldName": "description" },
+            { "fieldName": "review_summary" }
+          ]
+        }
+      }
+    ]
+  }
+}

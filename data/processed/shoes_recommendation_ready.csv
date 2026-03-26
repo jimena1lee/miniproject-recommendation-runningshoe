@@ -1,0 +1,31 @@
+﻿id,name,brand,price,cushion_level,stability,foot_type,usage,wide_fit
+nike_vomero_plus,Nike Vomero Plus,Nike,234000,medium,neutral,['neutral'],['daily_run'],False
+hoka_bondi_9,Hoka Bondi 9,Hoka,308340,medium,neutral,['neutral'],['daily_run'],False
+adidas_adizero_evo_sl,Adidas Adizero EVO SL,Adidas,256950,medium,neutral,['neutral'],['daily_run'],False
+asics_novablast_5,ASICS Novablast 5,ASICS,257060,medium,neutral,['neutral'],['daily_run'],False
+nike_vomero_18,Nike Vomero 18,Nike,257060,medium,neutral,['neutral'],['daily_run'],False
+hoka_clifton_10,Hoka Clifton 10,Hoka,195000,medium,neutral,['neutral'],['daily_run'],False
+new_balance_fresh_foam_x_more_v6,New Balance Fresh Foam X More v6,New Balance,291330,medium,neutral,['neutral'],['daily_run'],False
+nike_vomero_premium,Nike Vomero Premium,Nike,394160,medium,neutral,['neutral'],['daily_run'],False
+brooks_glycerin_max,Brooks Glycerin Max,Brooks,342600,medium,neutral,['neutral'],['daily_run'],False
+nike_pegasus_41,Nike Pegasus 41,Nike,239920,medium,neutral,['neutral'],['daily_run'],False
+new_balance_fresh_foam_x_more_v5,New Balance Fresh Foam X More v5,New Balance,201500,medium,neutral,['neutral'],['daily_run'],False
+brooks_ghost_max,Brooks Ghost Max,Brooks,274200,medium,neutral,['neutral'],['daily_run'],False
+hoka_clifton_9,Hoka Clifton 9,Hoka,257060,medium,neutral,['neutral'],['daily_run'],False
+new_balance_fresh_foam_x_1080_v14,New Balance Fresh Foam X 1080 v14,New Balance,325610,medium,neutral,['neutral'],['daily_run'],False
+nike_vaporfly_4,Nike Vaporfly 4,Nike,445570,medium,neutral,['neutral'],['daily_run'],False
+brooks_adrenaline_gts_24,Brooks Adrenaline GTS 24,Brooks,182000,medium,neutral,['neutral'],['daily_run'],False
+brooks_glycerin_22,Brooks Glycerin 22,Brooks,308470,medium,neutral,['neutral'],['daily_run'],False
+nike_zoom_fly_6,Nike Zoom Fly 6,Nike,291330,medium,neutral,['neutral'],['daily_run'],False
+asics_superblast_2,ASICS Superblast 2,ASICS,376860,medium,neutral,['neutral'],['daily_run'],False
+hoka_mach_6,Hoka Mach 6,Hoka,274200,medium,neutral,['neutral'],['daily_run'],False
+on_cloudmonster,On Cloudmonster,On,221000,medium,neutral,['neutral'],['daily_run'],False
+asics_gel_nimbus_27,ASICS Gel Nimbus 27,ASICS,342750,medium,neutral,['neutral'],['daily_run'],False
+adidas_adizero_adios_pro_4,Adidas Adizero Adios Pro 4,Adidas,428430,medium,neutral,['neutral'],['daily_run'],False
+nike_alphafly_3,Nike Alphafly 3,Nike,531250,medium,neutral,['neutral'],['daily_run'],False
+hoka_bondi_8,Hoka Bondi 8,Hoka,214500,medium,neutral,['neutral'],['daily_run'],False
+new_balance_fuelcell_rebel_v5,New Balance FuelCell Rebel v5,New Balance,274200,medium,neutral,['neutral'],['daily_run'],False
+new_balance_fuelcell_supercomp_elite_v5,New Balance FuelCell SuperComp Elite v5,New Balance,479840,medium,neutral,['neutral'],['daily_run'],False
+on_cloudmonster_2,On Cloudmonster 2,On,325610,medium,neutral,['neutral'],['daily_run'],False
+puma_velocity_nitro_4,PUMA Velocity Nitro 4,PUMA,182000,medium,neutral,['neutral'],['daily_run'],False
+brooks_ghost_max_2,Brooks Ghost Max 2,Brooks,274200,medium,neutral,['neutral'],['daily_run'],False
