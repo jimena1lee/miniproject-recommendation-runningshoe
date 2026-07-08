@@ -283,10 +283,11 @@
         <button class="example" type="button">가볍고 빠른 템포런용 신발</button>
       </div>
 
-      <form class="composer" id="composer">
+<!-- form 제출은 Notion 등 샌드박스 iframe(allow-forms 미허용)에서 차단되므로 사용하지 않는다 -->
+      <div class="composer">
         <input class="msg-input" id="msgInput" type="text" placeholder="예: 무릎 안 아픈 러닝화 추천" autocomplete="off" aria-label="메시지 입력" />
-        <button class="send-btn" type="submit">전송</button>
-      </form>
+        <button class="send-btn" id="sendBtn" type="button">전송</button>
+      </div>
     </section>
   </div>
 
@@ -436,7 +437,7 @@ function renderAnswer(query, docs) {
 
 /* ── UI 배선 ── */
 const chatLog = document.getElementById("chatLog");
-const composer = document.getElementById("composer");
+const sendBtn = document.getElementById("sendBtn");
 const msgInput = document.getElementById("msgInput");
 const priceSlider = document.getElementById("priceSlider");
 const priceValue = document.getElementById("priceValue");
@@ -508,9 +509,12 @@ function handleSend(text) {
   }, reduceMotion ? 80 : 850);
 }
 
-composer.addEventListener("submit", e => {
-  e.preventDefault();
-  handleSend(msgInput.value);
+sendBtn.addEventListener("click", () => handleSend(msgInput.value));
+msgInput.addEventListener("keydown", e => {
+  if (e.key === "Enter" && !e.isComposing) {
+    e.preventDefault();
+    handleSend(msgInput.value);
+  }
 });
 
 document.getElementById("examples").addEventListener("click", e => {
