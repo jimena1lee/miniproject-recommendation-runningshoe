@@ -279,6 +279,7 @@
         <button class="example" type="button">25만원 이하 러닝화 추천해줘</button>
         <button class="example" type="button">무릎 안 아픈 쿠션 좋은 신발</button>
         <button class="example" type="button">대회용 카본화 추천해줘</button>
+        <button class="example" type="button">30대 여성 입문 러닝화 추천</button>
         <button class="example" type="button">가볍고 빠른 템포런용 신발</button>
       </div>
 
@@ -290,7 +291,7 @@
   </div>
 
   <footer class="foot">
-    Teamprism · RunRepeat 데이터 30종 기반 데모 — 실제 서비스는 Azure OpenAI(GPT-4o-mini) + Azure AI Search Hybrid 검색으로 동작합니다.
+    이지원 · RunRepeat 데이터 30종 기반 데모 — 실제 서비스는 Azure OpenAI(GPT-4o-mini) + Azure AI Search Hybrid 검색으로 동작합니다.
   </footer>
 </div>
 
@@ -345,6 +346,7 @@ const KEYWORD_RULES = [
   { re: /대회|레이스|마라톤|카본|기록|풀코스|하프/, tag: "race", en: "race carbon-plate" },
   { re: /안정|과내전|평발|발목/, tag: "stability", en: "stability overpronation" },
   { re: /입문|처음|초보|시작/, tag: "beginner", en: "beginner-friendly" },
+  { re: /여성|우먼|woman|women/i, tag: null, en: "women's" },
   { re: /데일리|매일|조깅|출퇴근/, tag: "daily", en: "daily trainer" },
   { re: /장거리|롱런|LSD/i, tag: "long", en: "long-distance" },
   { re: /회복|리커버리/, tag: "recovery", en: "recovery" },
@@ -373,7 +375,7 @@ function buildFilter(foot, usage, priceVal) {
 }
 
 function mockSearch(query, foot, usage, priceVal) {
-  const tags = KEYWORD_RULES.filter(r => r.re.test(query)).map(r => r.tag);
+  const tags = KEYWORD_RULES.filter(r => r.re.test(query)).map(r => r.tag).filter(Boolean);
   const budget = extractBudget(query);
   const maxPrice = Math.min(priceVal, budget || Infinity);
   const mappedFoot = foot.map(f => FOOT_MAP[f]).filter(Boolean);
